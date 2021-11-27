@@ -1,0 +1,28 @@
+[
+   {
+	"identidad":"60340234",
+	"nombre":"Maria",
+	"apellidos":"Garcia Mendez",
+	"fechaNac":"1999-11-16",
+	"direccion":"Calle 40 # 34-56 ",
+	"telefono":"565656 ",
+	"genero":"F",
+	"email": "maria25@gmail.com",
+	"rol": "Client",
+	"status": true,
+	"__v":0
+   }, 
+   {
+	"identidad":"60310766",
+	"nombre":"Alicia",
+	"apellidos":"Martinez polo",
+	"fechaNac":"1995-11-16",
+	"direccion":"Calle 20 # 12-56 ",
+	"telefono":"56565656 ",
+	"genero":"F",
+	"email": "alicia30@gmail.com",
+	"rol": "Client",
+	"status": true,
+	"__v": 0
+   }
+]
