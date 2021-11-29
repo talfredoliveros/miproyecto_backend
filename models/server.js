@@ -33,10 +33,8 @@ class Server {
     }
 
     listen(){
-        this.app.listen(this.port, process.env.LOCAL_ADDRESS, () => {
-            const address = server.address();
+        this.app.listen(this.port, () => {
             console.log(`Example app listening at http://localhost:${ this.port }`);
-            console.log(' app  listening '+ address);
         });
     }
 
