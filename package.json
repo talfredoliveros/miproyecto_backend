@@ -2,9 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Este es el servidor backend de miproyecto",
-  "main": "index.js",
-  "engines": {
-    "node": "14.17.1"
+  "main": "index.js"
   },
     "scripts": {
     "start": "node index.js",
